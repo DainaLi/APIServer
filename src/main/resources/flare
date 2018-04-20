@@ -1,0 +1,36 @@
+[
+  {
+    "letter": "A",
+    "frequency": 0.635
+  }, {
+  "letter": "B",
+  "frequency": 0.244
+}, {
+  "letter": "C",
+  "frequency": 0.354
+}, {
+  "letter": "D",
+  "frequency": 0.649
+}, {
+  "letter": "E",
+  "frequency": 0.688
+}, {
+  "letter": "F",
+  "frequency": 0.984
+}, {
+  "letter": "H",
+  "frequency": 0.748
+}, {
+  "letter": "I",
+  "frequency": 0.233
+}, {
+  "letter": "J",
+  "frequency": 0.543
+}, {
+  "letter": "K",
+  "frequency": 0.674
+}, {
+  "letter": "MM",
+  "frequency": 0.678
+}
+]
